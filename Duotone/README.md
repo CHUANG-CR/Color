@@ -4,7 +4,7 @@
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
-| $\color{#540D15}{\blacksquare}$ | 勃良第紅 | `#540D15` |
+| $\color{#540D15}{\blacksquare}$ | 勃根地紅 | `#540D15` |
 | $\color{#E0D4C6}{\blacksquare}$ | 米白 | `#E0D4C6` |
 ---
 
@@ -19,7 +19,7 @@
 
 ## 3. 藍莓 ＆ 木蘭淡粉 (Blueberry & Magnolia Pink)
 
-| 顏色 | 色名 | Hex 碼 |
+| 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
 | $\color{#313342}{\blacksquare}$ | 藍莓 | `#313342` |
 | $\color{#DEB4B2}{\blacksquare}$ | 木蘭淡粉 | `#DEB4B2` |
@@ -37,7 +37,7 @@
 
 ## 5. 咖啡牛奶棕 ＆ 淡綠 (Coffee Milk Brown & Light Green)
 
-| 顏色 | 色名 | Hex 碼 |
+| 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
 | $\color{#97705D}{\blacksquare}$ | 咖啡牛奶棕 | `#97705D` |
 | $\color{#CFD99D}{\blacksquare}$ | 淡綠 | `#CFD99D` |
