@@ -1,15 +1,15 @@
 # Color
 
 - Duotone
-  > [README.md](Duotone/README.md)
-
-- Multicolor
-  > README.md
-
-- Quadtone
-  > README.md
+  > [雙色搭配](Duotone/README.md)
 
 - Tritone
-  > README.md
+  > [三色搭配](Tritone/README.md)
 
-- README.md
+- Quadtone
+  > [四色搭配](Quadtone/README.md)
+
+- Multicolor
+  > [多色搭配](Multicolor/README.md)
+
+
