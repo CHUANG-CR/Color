@@ -6,7 +6,6 @@
 |:---:|:---:|:---:|
 | $\color{#540D15}{\blacksquare}$ | 勃良第紅 | `#540D15` |
 | $\color{#E0D4C6}{\blacksquare}$ | 米白 | `#E0D4C6` |
-| [![#CFD99D](https://shields.io)](https://color-hex.org) | 淡綠 / Light Green | `#CFD99D` |
 ---
 
 ## 2. 陶瓷綠 ＆ 茉莉黃 (Ceramic Green & Jasmine Yellow)
