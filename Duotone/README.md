@@ -6,7 +6,6 @@
 |:---:|:---:|:---:|
 | $\color{#540D15}{\blacksquare}$ | 勃良第紅 | `#540D15` |
 | $\color{#E0D4C6}{\blacksquare}$ | 米白 | `#E0D4C6` |
-| $\color{#E0D4C6}{\rule{35pt}{16pt}}$ | 米白 / Rice White | `📋 #E0D4C6` |
 ---
 
 ## 2. 陶瓷綠 ＆ 茉莉黃 (Ceramic Green & Jasmine Yellow)
