@@ -1,14 +1,15 @@
-.
-├── Duotone
-│   └── README.md
+# Color
 
-├── Multicolor
-│   └── README.md
+- Duotone
+  > [README.md](Duotone/README.md)
 
-├── Quadtone
-│   └── README.md
+- Multicolor
+  > README.md
 
-├──Tritone
-│   └── README.md
+- Quadtone
+  > README.md
 
-└──README.md
+- Tritone
+  > README.md
+
+- README.md
