@@ -1,11 +1,12 @@
 # 雙色搭配 (2-Colors Match)
 
-## 1. 勃根地紅 ＆ 米白 (Burgundy & Rice White)
+## 1. 暗夜酒紅 ＆ 象牙白 [(Night Bordeaux & Bone)](image/)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
-| $\color{#540D15}{\blacksquare}$ | 勃根地紅 | `#540D15` |
-| $\color{#E0D4C6}{\blacksquare}$ | 米白 | `#E0D4C6` |
+| $\color{#540D15}{\blacksquare}$ | 暗夜酒紅 | `#540D15` |
+| $\color{#E0D4C6}{\blacksquare}$ | 象牙白 | `#E0D4C6` |
+
 ---
 
 ## 2. 陶瓷綠 ＆ 茉莉黃 (Ceramic Green & Jasmine Yellow)
