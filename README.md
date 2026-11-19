@@ -24,4 +24,4 @@
 ---
 # 實用工具
 
-## [Coolors](https://coolors.co/ffffff-000000)
+## [Coolors](https://coolors.co/ffffff-000000) — 顏色命名與之參考圖皆取自此網站。
