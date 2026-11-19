@@ -1,51 +1,51 @@
 # 三色搭配 (3-Colors Match)
 
-## 1. 朱櫻 ＆ 佛頭青 ＆ 海天霞
+## 1. 深酒紅 ＆ 暮光靛 ＆ 絲絨杏[(Dark Wine & Twilight Indigo & Almond Silk)](image/Dark-Wine.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
-| $\color{#77171C}{\blacksquare}$ | 朱櫻 | `#77171C` |
-| $\color{#19325F}{\blacksquare}$ | 佛頭青 | `#19325F` |
-| $\color{#F5C7BD}{\blacksquare}$ | 海天霞 | `#F5C7BD` |
+| $\color{#77171C}{\blacksquare}$ | 深酒紅 | `#77171C` |
+| $\color{#19325F}{\blacksquare}$ | 暮光靛 | `#19325F` |
+| $\color{#F5C7BD}{\blacksquare}$ | 絲絨杏 | `#F5C7BD` |
 
 ---
 
-## 2. 佛赤 ＆ 蓮子白 ＆ 松綠
+## 2. 駝色 ＆ 珍珠米 ＆ 獵人綠[(Camel & Pearl Beige & Hunter Green)](image/Camel.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
-| $\color{#C7935F}{\blacksquare}$ | 佛赤 | `#C7935F` |
-| $\color{#E5D3AA}{\blacksquare}$ | 蓮子白 | `#E5D3AA` |
-| $\color{#3D6036}{\blacksquare}$ | 松綠 | `#3D6036` |
+| $\color{#C7935F}{\blacksquare}$ | 駝色 | `#C7935F` |
+| $\color{#E5D3AA}{\blacksquare}$ | 珍珠米 | `#E5D3AA` |
+| $\color{#3D6036}{\blacksquare}$ | 獵人綠 | `#3D6036` |
 
 ---
 
-## 3. 暮山紫 ＆ 駝絨 ＆ 蜜合
+## 3. 暗灰 ＆ 褪色古銅 ＆ 珍珠米[(Dim Grey & Faded Copper & Perl Beige)](image/Dim-Grey.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
-| $\color{#615F74}{\blacksquare}$ | 暮山紫 | `#615F74` |
-| $\color{#9E725A}{\blacksquare}$ | 駝絨 | `#9E725A` |
-| $\color{#E0D5AF}{\blacksquare}$ | 蜜合 | `#E0D5AF` |
+| $\color{#615F74}{\blacksquare}$ | 暗灰 | `#615F74` |
+| $\color{#9E725A}{\blacksquare}$ | 褪色古銅 | `#9E725A` |
+| $\color{#E0D5AF}{\blacksquare}$ | 珍珠米 | `#E0D5AF` |
 
 ---
 
-## 4. 夜灰 ＆ 凝脂 ＆ 京元
+## 4. 灰橄欖綠 ＆ 柔亞麻 ＆ 炭棕[(Grey Olive & Soft Linen & Charcoal Brown)](image/Grey-Olive.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
-| $\color{#847C74}{\blacksquare}$ | 夜灰 | `#847C74` |
-| $\color{#F1EEE5}{\blacksquare}$ | 凝脂 | `#F1EEE5` |
-| $\color{#31322C}{\blacksquare}$ | 京元 | `#31322C` |
+| $\color{#847C74}{\blacksquare}$ | 灰橄欖綠 | `#847C74` |
+| $\color{#F1EEE5}{\blacksquare}$ | 柔亞麻 | `#F1EEE5` |
+| $\color{#31322C}{\blacksquare}$ | 炭棕 | `#31322C` |
 
 ---
 
-## 5. 山梔茶 ＆ 莎草紙 ＆ 晚香玉
+## 5. 棕櫚葉綠 ＆ 淺棕 ＆ 淺橡木[(Palm Leaf & Tan & Pale Oak)](image/Palm-Leaf.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
-| $\color{#999A7E}{\blacksquare}$ | 山梔茶 | `#999A7E` |
-| $\color{#CFA886}{\blacksquare}$ | 莎草紙 | `#CFA886` |
-| $\color{#d7C6A6}{\blacksquare}$ | 晚香玉 | `#d7C6A6` |
+| $\color{#999A7E}{\blacksquare}$ | 棕櫚葉綠 | `#999A7E` |
+| $\color{#CFA886}{\blacksquare}$ | 淺棕 | `#CFA886` |
+| $\color{#d7C6A6}{\blacksquare}$ | 淺橡木 | `#d7C6A6` |
 
 ---
