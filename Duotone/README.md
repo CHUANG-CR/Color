@@ -9,38 +9,38 @@
 
 ---
 
-## 2. 陶瓷綠 ＆ 茉莉黃 (Ceramic Green & Jasmine Yellow)
+## 2. 霧藍綠 ＆ 柔淺駝 [(Muted Teal & Soft Fawn)](image/Muted-Teal.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
-| $\color{#8BB399}{\blacksquare}$ | 陶瓷綠 | `#8BB399` |
-| $\color{#E1BB74}{\blacksquare}$ | 茉莉黃 | `#E1BB74` |
+| $\color{#8BB399}{\blacksquare}$ | 霧藍綠 | `#8BB399` |
+| $\color{#E1BB74}{\blacksquare}$ | 柔淺駝 | `#E1BB74` |
 
 ---
 
-## 3. 藍莓 ＆ 木蘭淡粉 (Blueberry & Magnolia Pink)
+## 3. 石墨灰 ＆ 柔棉粉 [(Graphite & Cotton Rose)](image/Graphite.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
-| $\color{#313342}{\blacksquare}$ | 藍莓 | `#313342` |
-| $\color{#DEB4B2}{\blacksquare}$ | 木蘭淡粉 | `#DEB4B2` |
+| $\color{#313342}{\blacksquare}$ | 石墨灰 | `#313342` |
+| $\color{#DEB4B2}{\blacksquare}$ | 柔棉粉 | `#DEB4B2` |
 
 ---
 
-## 4. 帝橄欖綠 ＆ 銀牡丹 (Imperial Olive & Silver Peony)
+## 4. 霧橄欖綠 ＆ 絲絨杏 [(Dusty Olive & Almond Slik)](image/Dusty-Olive.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
-| $\color{#676C44}{\blacksquare}$ | 帝橄欖綠 | `#676C44` |
-| $\color{#E7CEC7}{\blacksquare}$ | 銀牡丹 | `#E7CEC7` |
+| $\color{#676C44}{\blacksquare}$ | 霧橄欖綠 | `#676C44` |
+| $\color{#E7CEC7}{\blacksquare}$ | 絲絨杏 | `#E7CEC7` |
 
 ---
 
-## 5. 咖啡牛奶棕 ＆ 淡綠 (Coffee Milk Brown & Light Green)
+## 5. 褪色古銅 ＆ 茶綠 [(Faded Copper & Tea Green)](image/Faded-Copper.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
-| $\color{#97705D}{\blacksquare}$ | 咖啡牛奶棕 | `#97705D` |
-| $\color{#CFD99D}{\blacksquare}$ | 淡綠 | `#CFD99D` |
+| $\color{#97705D}{\blacksquare}$ | 褪色古銅 | `#97705D` |
+| $\color{#CFD99D}{\blacksquare}$ | 茶綠 | `#CFD99D` |
 
 ---
