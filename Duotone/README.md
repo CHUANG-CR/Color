@@ -1,6 +1,6 @@
 # 雙色搭配 (2-Colors Match)
 
-## 1. 暗夜酒紅 ＆ 象牙白 [(Night Bordeaux & Bone)](Duotone/image/)
+## 1. 暗夜酒紅 ＆ 象牙白 [(Night Bordeaux & Bone)](Duotone/image/Night-Bordeaux.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
