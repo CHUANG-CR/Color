@@ -65,3 +65,69 @@
 | $\color{#34373E}{\blacksquare}$ | 槍灰 | `#34373E` |
 
 ---
+
+## 7. 板岩藍 ＆ 肉桂木 ＆ 淺橡木 ＆ 炭藍[(Blue Slate & Cinnamon Wood & Pale Oak & Charcoal Blue)](image/Blue-Slate.png)
+
+| 預覽 | 名稱 | Hex 碼 |
+|:---:|:---:|:---:|
+| $\color{#526C84}{\blacksquare}$ | 板岩藍 | `#526C84` |
+| $\color{#B97B61}{\blacksquare}$ | 肉桂木 | `#B97B61` |
+| $\color{#D7C1A9}{\blacksquare}$ | 淺橡木 | `#D7C1A9` |
+| $\color{#39434D}{\blacksquare}$ | 炭藍 | `#39434D` |
+
+---
+
+## 8. 深板岩灰 ＆ 錦葵暮影 ＆ 駝色 ＆ 象牙白[(Dark Slate Grey & Mauve Shadow & Camel & Bone)](image/Dark-Slate-Grey.png)
+
+| 預覽 | 名稱 | Hex 碼 |
+|:---:|:---:|:---:|
+| $\color{#2F4944}{\blacksquare}$ | 深板岩灰 | `#2F4944` |
+| $\color{#6A3D45}{\blacksquare}$ | 錦葵暮影 | `#6A3D45` |
+| $\color{#B89E7C}{\blacksquare}$ | 駝色 | `#B89E7C` |
+| $\color{#E9DED0}{\blacksquare}$ | 象牙白 | `#E9DED0` |
+
+---
+
+## 9. 深藍綠 ＆ 赤陶土 ＆ 淺橡木 ＆ 炭灰[(Dark Teal & Terracotta Clay & Pale Osk & Charcoal)](image/Dark-Teall.png)
+
+| 預覽 | 名稱 | Hex 碼 |
+|:---:|:---:|:---:|
+| $\color{#2B5560}{\blacksquare}$ | 深藍綠 | `#2B5560` |
+| $\color{#9B695B}{\blacksquare}$ | 赤陶土 | `#9B695B` |
+| $\color{#D8C1A4}{\blacksquare}$ | 淺橡木 | `#D8C1A4` |
+| $\color{#545359}{\blacksquare}$ | 炭灰 | `#545359` |
+
+---
+
+## 10. 深空藍 ＆ 駝色 ＆ 象牙白 ＆ 灰棕[(Deep Space Blue & Camel & Bone & Ash Brown)](image/Deep-Space-Blue.png)
+
+| 預覽 | 名稱 | Hex 碼 |
+|:---:|:---:|:---:|
+| $\color{#24324A}{\blacksquare}$ | 深空藍 | `#24324A` |
+| $\color{#C2A06A}{\blacksquare}$ | 駝色 | `#C2A06A` |
+| $\color{#ECE1CF}{\blacksquare}$ | 象牙白 | `#ECE1CF` |
+| $\color{#78685E}{\blacksquare}$ | 灰棕 | `#78685E` |
+
+---
+
+## 11. 霧錦葵紫 ＆ 絲絨杏 ＆ 板岩灰 ＆ 古董白[(Dusty Mauve & Almond Silk & State Grey & Antique White)](image/Dusty-Mauve.png)
+
+| 預覽 | 名稱 | Hex 碼 |
+|:---:|:---:|:---:|
+| $\color{#9D7681}{\blacksquare}$ | 霧錦葵紫 | `#9D7681` |
+| $\color{#D3C3BA}{\blacksquare}$ | 絲絨杏 | `#D3C3BA` |
+| $\color{#6B7A87}{\blacksquare}$ | 板岩灰 | `#6B7A87` |
+| $\color{#F1E6D8}{\blacksquare}$ | 古董白 | `#F1E6D8` |
+
+---
+
+## 12. 復古葡萄紫 ＆ 駝色 ＆ 灰橄欖綠 ＆ 亞麻白[(Vintage Grape & Camel & Grey Olive & Linen)](image/Vintage-Grape.png)
+
+| 預覽 | 名稱 | Hex 碼 |
+|:---:|:---:|:---:|
+| $\color{#63506B}{\blacksquare}$ | 復古葡萄紫 | `#63506B` |
+| $\color{#B89A68}{\blacksquare}$ | 駝色 | `#B89A68` |
+| $\color{#93887C}{\blacksquare}$ | 灰橄欖綠 | `#93887C` |
+| $\color{#EEE4D7}{\blacksquare}$ | 亞麻白 | `#EEE4D7` |
+
+---
