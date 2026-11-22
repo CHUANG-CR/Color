@@ -1,6 +1,6 @@
 # 五色搭配 (5-Colors Match)
 
-## 1. 古董白 ＆ 肉桂木 ＆ 叢林藍綠 ＆ 暖陽陶土 ＆ 灰褐[(Antique White & Cinnamon Wood & Jungle Teal & Sunlit Clay & Taupe)](image/Antique-White.png)
+## 1. 古董白 ＆ 肉桂木 ＆ 叢林藍綠 ＆ 暖陽陶土 ＆ 灰褐[(Antique White & Cinnamon Wood & Jungle Teal & Sunlit Clay & Taupe)](5-image/1-Antique-White.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
@@ -12,7 +12,7 @@
 
 ---
 
-## 2. 秋葉橘 ＆ 冷鋼灰 ＆ 茉莉黃 ＆ 霧橄欖綠 ＆ 咖啡豆棕[(Autumn Leaf & Cool Steet & Jasmine & Dusty Olive & Coffee Bean)](image/Autumn-Leaf.png)
+## 2. 秋葉橘 ＆ 冷鋼灰 ＆ 茉莉黃 ＆ 霧橄欖綠 ＆ 咖啡豆棕[(Autumn Leaf & Cool Steet & Jasmine & Dusty Olive & Coffee Bean)](5-image/2-Autumn-Leaf.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
@@ -24,7 +24,7 @@
 
 ---
 
-## 3. 深胡桃木 ＆ 金古銅 ＆ 淺橡木 ＆ 冷鋼灰 ＆ 深咖啡[(Dark Walnut & Golden Bronze & Pale Oak & Cool Steel & Dark Coffee)](image/Dark-Walnut.png)
+## 3. 深胡桃木 ＆ 金古銅 ＆ 淺橡木 ＆ 冷鋼灰 ＆ 深咖啡[(Dark Walnut & Golden Bronze & Pale Oak & Cool Steel & Dark Coffee)](5-image/3-Dark-Walnut.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
@@ -36,7 +36,7 @@
 
 ---
 
-## 4. 灰棕 ＆ 金古銅 ＆ 獵人綠 ＆ 鏽紅香料 ＆ 卡其米[(Ash Brown & Golden Bronze & Hunter Green & Rusty Spice & Khaki Beige)](image/Ash-Brown.png)
+## 4. 灰棕 ＆ 金古銅 ＆ 獵人綠 ＆ 鏽紅香料 ＆ 卡其米[(Ash Brown & Golden Bronze & Hunter Green & Rusty Spice & Khaki Beige)](5-image/4-Ash-Brown.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
@@ -45,5 +45,17 @@
 | $\color{#3E6B44}{\blacksquare}$ | 獵人綠 | `#3E6B44` |
 | $\color{#B1532E}{\blacksquare}$ | 鏽紅香料 | `#B1532E` |
 | $\color{#B8A999}{\blacksquare}$ | 卡其米 | `#B8A999` |
+
+---
+
+## 5. 雪花石灰 ＆ 煙灰 ＆ 灰棕 ＆ 炭藍 ＆ 復古葡萄紫[(Alabaster Grey & Ash Grey & Ash Brown & Charcoal Blue & Vintage Grape)](5-image/5-Alabaster-Grey.png)
+
+| 預覽 | 名稱 | Hex 碼 |
+|:---:|:---:|:---:|
+| $\color{#E9ECEA}{\blacksquare}$ | 雪花石灰 | `#E9ECEA` |
+| $\color{#A9BCA6}{\blacksquare}$ | 煙灰 | `#A9BCA6` |
+| $\color{#6B5844}{\blacksquare}$ | 灰棕 | `#6B5844` |
+| $\color{#2E4250}{\blacksquare}$ | 炭藍 | `#2E4250` |
+| $\color{#46405E}{\blacksquare}$ | 復古葡萄紫 | `#46405E` |
 
 ---
