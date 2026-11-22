@@ -59,3 +59,15 @@
 | $\color{#46405E}{\blacksquare}$ | 復古葡萄紫 | `#46405E` |
 
 ---
+
+## 6. 羊皮紙白 ＆ 象牙白 ＆ 銀灰 ＆ 淺板岩灰 ＆ 灰橄欖綠[(Parchment & Bone & Sliver & Pale Slate & Grey Olive)](5-image/06-Parchment.png)
+
+| 預覽 | 名稱 | Hex 碼 |
+|:---:|:---:|:---:|
+| $\color{#F4F1EC}{\blacksquare}$ | 羊皮紙白 | `#F4F1EC` |
+| $\color{#E3D8C8}{\blacksquare}$ | 象牙白 | `#E3D8C8` |
+| $\color{#C7C6C2}{\blacksquare}$ | 銀灰 | `#C7C6C2` |
+| $\color{#A9ABAE}{\blacksquare}$ | 淺板岩灰 | `#A9ABAE` |
+| $\color{#8E877E}{\blacksquare}$ | 灰橄欖綠 | `#8E877E` |
+
+---
