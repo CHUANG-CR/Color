@@ -24,14 +24,26 @@
 
 ---
 
-## 3. 深胡桃木 ＆ 褪色古銅 ＆ 深咖啡 ＆ 霧橄欖綠 ＆ 淺橡木[(Dark Walnut & Faded Copper & Dark Coffee & Dusty Olive & Pale Oak)](image/Dark-Walnut.png)
+## 3. 深胡桃木 ＆ 金古銅 ＆ 淺橡木 ＆ 冷鋼灰 ＆ 深咖啡[(Dark Walnut & Golden Bronze & Pale Oak & Cool Steel & Dark Coffee)](image/Dark-Walnut.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
-| $\color{#613422}{\blacksquare}$ | 深胡桃木 | `#613422` |
-| $\color{#B28563}{\blacksquare}$ | 褪色古銅 | `#B28563` |
-| $\color{#403023}{\blacksquare}$ | 深咖啡 | `#403023` |
-| $\color{#736E53}{\blacksquare}$ | 霧橄欖綠 | `#736E53` |
-| $\color{#DCCAB5}{\blacksquare}$ | 淺橡木 | `#DCCAB5` |
+| $\color{#6B2717}{\blacksquare}$ | 深胡桃木 | `#6B2717` |
+| $\color{#CC9E4C}{\blacksquare}$ | 金古銅 | `#CC9E4C` |
+| $\color{#E0D0B6}{\blacksquare}$ | 淺橡木 | `#E0D0B6` |
+| $\color{#8B9EA5}{\blacksquare}$ | 冷鋼灰 | `#8B9EA5` |
+| $\color{#442C1B}{\blacksquare}$ | 深咖啡 | `#442C1B` |
+
+---
+
+## 4. 灰棕 ＆ 金古銅 ＆ 獵人綠 ＆ 鏽紅香料 ＆ 卡其米[(Ash Brown & Golden Bronze & Hunter Green & Rusty Spice & Khaki Beige)](image/Ash-Brown.png)
+
+| 預覽 | 名稱 | Hex 碼 |
+|:---:|:---:|:---:|
+| $\color{#5A4234}{\blacksquare}$ | 灰棕 | `#5A4234` |
+| $\color{#D5A53A}{\blacksquare}$ | 金古銅 | `#D5A53A` |
+| $\color{#3E6B44}{\blacksquare}$ | 獵人綠 | `#3E6B44` |
+| $\color{#B1532E}{\blacksquare}$ | 鏽紅香料 | `#B1532E` |
+| $\color{#B8A999}{\blacksquare}$ | 卡其米 | `#B8A999` |
 
 ---
