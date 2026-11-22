@@ -71,3 +71,15 @@
 | $\color{#8E877E}{\blacksquare}$ | 灰橄欖綠 | `#8E877E` |
 
 ---
+
+## 7. 蜜糖古銅 ＆ 金杏黃 ＆ 栗棕 ＆ 濃縮咖啡 ＆ 勃根地紅[(Honey Bronze & Golden Apricot & Chestnut & Espresso & Burgundy)](5-image/07-Honey-Bronze.png)
+
+| 預覽 | 名稱 | Hex 碼 |
+|:---:|:---:|:---:|
+| $\color{#FEBA52}{\blacksquare}$ | 蜜糖古銅 | `#FEBA52` |
+| $\color{#E7993A}{\blacksquare}$ | 金杏黃 | `#E7993A` |
+| $\color{#923C27}{\blacksquare}$ | 栗棕 | `#923C27` |
+| $\color{#632223}{\blacksquare}$ | 濃縮咖啡 | `#632223` |
+| $\color{#8D2831}{\blacksquare}$ | 勃根地紅 | `#8D2831` |
+
+---
