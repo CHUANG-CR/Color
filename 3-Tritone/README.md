@@ -1,6 +1,6 @@
 # 三色搭配 (3-Colors Match)
 
-## 1. 深酒紅 ＆ 暮光靛 ＆ 絲絨杏[(Dark Wine & Twilight Indigo & Almond Silk)](image/1-Dark-Wine.png)
+## 1. 深酒紅 ＆ 暮光靛 ＆ 絲絨杏[(Dark Wine & Twilight Indigo & Almond Silk)](image/01-Dark-Wine.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
@@ -10,7 +10,7 @@
 
 ---
 
-## 2. 駝色 ＆ 珍珠米 ＆ 獵人綠[(Camel & Pearl Beige & Hunter Green)](image/2-Camel.png)
+## 2. 駝色 ＆ 珍珠米 ＆ 獵人綠[(Camel & Pearl Beige & Hunter Green)](image/02-Camel.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
@@ -20,7 +20,7 @@
 
 ---
 
-## 3. 暗灰 ＆ 褪色古銅 ＆ 珍珠米[(Dim Grey & Faded Copper & Perl Beige)](image/3-Dim-Grey.png)
+## 3. 暗灰 ＆ 褪色古銅 ＆ 珍珠米[(Dim Grey & Faded Copper & Perl Beige)](image/03-Dim-Grey.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
@@ -30,7 +30,7 @@
 
 ---
 
-## 4. 灰橄欖綠 ＆ 柔亞麻 ＆ 炭棕[(Grey Olive & Soft Linen & Charcoal Brown)](image/4-Grey-Olive.png)
+## 4. 灰橄欖綠 ＆ 柔亞麻 ＆ 炭棕[(Grey Olive & Soft Linen & Charcoal Brown)](image/04-Grey-Olive.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
@@ -40,7 +40,7 @@
 
 ---
 
-## 5. 棕櫚葉綠 ＆ 淺棕 ＆ 淺橡木[(Palm Leaf & Tan & Pale Oak)](image/5-Palm-Leaf.png)
+## 5. 棕櫚葉綠 ＆ 淺棕 ＆ 淺橡木[(Palm Leaf & Tan & Pale Oak)](image/05-Palm-Leaf.png)
 
 | 預覽 | 名稱 | Hex 碼 |
 |:---:|:---:|:---:|
